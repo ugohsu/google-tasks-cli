@@ -1,0 +1,6 @@
+# 認証情報は絶対にコミットしない (ふだんは ~/.config/gtasks/ に置く)
+client_secret*.json
+token.json
+pending_auth.json
+*.tmp
+__pycache__/
